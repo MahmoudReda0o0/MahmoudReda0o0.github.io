@@ -1,6 +1,6 @@
 {
-    "name": "profile_website",
-    "short_name": "profile_website",
+    "name": "personal_webstie",
+    "short_name": "personal_webstie",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
